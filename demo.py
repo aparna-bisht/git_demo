@@ -1,0 +1,2 @@
+print("Hello")
+peint("hii")
